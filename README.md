@@ -1,4 +1,4 @@
-I code sum stuff and trynna develop bots to send to space and shit
+Developing a super API! 
 
 
         
