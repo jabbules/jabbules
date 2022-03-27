@@ -1,7 +1,6 @@
-![db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c (1)](https://user-images.githubusercontent.com/80054285/131337964-c6e3eb53-33e7-4f57-a10f-96a28e727794.gif)
+I code sum stuff and trynna develop bots to send to space and shit
 
 
-                   Heyo
-        I'm jabbules and I'm currently working on some Minecraft packs
+        
      
-                   Message me on discord >> jabbules.et#5282
+![tumblr_90a734e21c71125f6099725ae9d95170_a31d5f9e_400](https://user-images.githubusercontent.com/80054285/160298829-aefcc6ef-c17e-4026-8ef0-b34a2747b2b3.gif)
