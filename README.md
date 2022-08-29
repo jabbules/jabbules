@@ -1,4 +1,6 @@
-
+- UI Designer
+- Minecraft (JAVA/BE) Client and Hacked Client devoloper
+- Game Devoloper
 
 
         
