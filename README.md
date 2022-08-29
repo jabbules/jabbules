@@ -1,8 +1,5 @@
-- UI Designer
-- Minecraft (JAVA/BE) Client and Hacked Client devoloper
-- Game Devoloper
 
-
-        
-     
-![tumblr_90a734e21c71125f6099725ae9d95170_a31d5f9e_400](https://user-images.githubusercontent.com/80054285/160298829-aefcc6ef-c17e-4026-8ef0-b34a2747b2b3.gif)
+ 
+ 
+ 
+ ![Snake animation](https://github.com/jabbules/jabbules/blob/output/github-contribution-grid-snake.svg)
